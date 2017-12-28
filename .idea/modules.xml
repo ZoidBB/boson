@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boson.iml" filepath="$PROJECT_DIR$/boson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/boson_api.iml" filepath="$PROJECT_DIR$/.idea/modules/boson_api.iml" group="boson" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/boson_main.iml" filepath="$PROJECT_DIR$/.idea/modules/boson_main.iml" group="boson" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/boson_test.iml" filepath="$PROJECT_DIR$/.idea/modules/boson_test.iml" group="boson" />
+    </modules>
+  </component>
+</project>

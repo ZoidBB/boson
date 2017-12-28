@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="boson:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/boson_jar</output-path>
+    <root id="archive" name="boson.jar">
+      <element id="module-output" name="boson" />
+      <element id="module-output" name="boson_main" />
+    </root>
+  </artifact>
+</component>
